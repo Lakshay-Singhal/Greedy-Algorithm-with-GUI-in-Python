@@ -29,9 +29,7 @@ def dijkstra():
 def credit():
     messagebox.showinfo(title="Credits", message='''                    B. Tech.   CSE 2nd Year
 
-                    Kaushiki Taru      -   18103053
-                    Kumari Soni        -   18103054
-                    Lakshay Singhal    -   18103055
+                        Lakshay Singhal
 
 Dr. B. R. Ambedkar National Instiitute of Technology''')
 
